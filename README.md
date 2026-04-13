@@ -55,6 +55,7 @@ A recipe generator web app with a clean and modern UI.
 ---
 
 ## Contact Me
-
+- Telegram: [https://t.me/JUL4S](https://t.me/JUL4S)
+- X(Twitter) : https://www.instagram.com/julas_m.nur/
 - LinkedIn: www.linkedin.com/in/julaskahhsay
 - Email: Julasmame@gmail.com
