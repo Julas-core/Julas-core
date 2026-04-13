@@ -30,13 +30,13 @@ I am a developer who enjoys creating scalable web applications and exploring tec
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### 🔹 TypeBro
 A minimal typing speed app built with TypeScript.
 
 ### 🔹 SnapRecipes
-A recipe discovery web app with a clean and modern UI.
+A recipe generator web app with a clean and modern UI.
 
 ---
 
@@ -54,11 +54,7 @@ A recipe discovery web app with a clean and modern UI.
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
 - LinkedIn: www.linkedin.com/in/julaskahhsay
 - Email: Julasmame@gmail.com
-
----
-
-⭐️ From [julas-core](https://github.com/julas-core)
