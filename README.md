@@ -55,6 +55,7 @@ A recipe generator web app with a clean and modern UI.
 ---
 
 ## Contact Me
+- Porfolio: [https://julas.vercel.app/]
 - Telegram: [https://t.me/JUL4S](https://t.me/JUL4S)
 - X(Twitter) : https://x.com/JrJulas81406
 - LinkedIn: www.linkedin.com/in/julaskahhsay
