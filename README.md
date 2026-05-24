@@ -1,6 +1,5 @@
 ## Hello, I'm  Julas
-I am a Computer Science student and a full-stack developer aspiring to become an AI engineer.
-
+I am a Computer Science student and a full-stack developer.
 
 ## About me: 
 I am a developer who enjoys creating scalable web applications and exploring technologies such as Artificial Intelligence. My aim is to enhance my abilities in full-stack development and get involved in practical projects to gain more experience.
